@@ -15,3 +15,8 @@ Ganache para simulação de rede;
 6. Batalha entre Bulbassauro e Psydauck, com vitoria do Bulbassauro, hasfh dela visto [aqui](https://github.com/izaque459/Projeto_PokeNFT/blob/main/BAtalha_BulbassauroXPysduck.png)
 7. Transferencia do Picachu, da segunda conta para o dono, visto [aqui](https://github.com/izaque459/Projeto_PokeNFT/blob/main/Transferencia_Picachu.png)
 8. Todas as transações registradas no Ganache, visto [aqui](https://github.com/izaque459/Projeto_PokeNFT/blob/main/Todas_Transacoes.png)
+9. Link para arquivo do [Bulbassauro](https://ipfs.io/ipfs/QmQXMitmehy11UBXgXegadXHKsdjbosfCBJognFHjp44Dd?filename=bulbasaur.png)
+10. Link para arquivo do [Charmander](https://ipfs.io/ipfs/QmcjuBZfPYFsnuotJnspCK9zjV8QywBBCUqsucpk1gvSgy?filename=charmander.png)
+11. Link para arquivo do [Picachu](https://ipfs.io/ipfs/QmPywJc8BgzkfNSg5eH22GvUYFCeRVEd9irM3hWw37QyKC?filename=pikachu.png)
+12. Link para arquivo do [Psyduck](https://ipfs.io/ipfs/QmbzhQRohx1CJqx5RzryPD671JRHPGL9fzgvmZGga1xQgD?filename=psyduck.png)
+13. Link para arquivo do [Squirtle](https://ipfs.io/ipfs/QmbKtRAAk4uZrB1JquAhHWFSgM9T5CZaHpk4B6rME25S5Y?filename=squirtle.jpg)
